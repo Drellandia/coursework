@@ -1,0 +1,31 @@
+# Visual Studio временные файлы
+*.user
+*.suo
+*.vscode/
+
+# Сборка
+bin/
+obj/
+Debug/
+Release/
+
+# Пакеты NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Ресурсы и настройки
+*.resharper
+*.DotSettings.user
+
+# Логи и временные файлы
+*.log
+*.vs/
+
+# OS файлы
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Npgsql пакеты (можно просто игнорировать всё в packages/)
+packages/Npgsql*/

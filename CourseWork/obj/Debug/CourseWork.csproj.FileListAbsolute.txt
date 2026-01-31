@@ -1,0 +1,147 @@
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\Npgsql.dll
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Buffers.dll
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Collections.Immutable.dll
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Memory.dll
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Numerics.Vectors.dll
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Text.Encodings.Web.dll
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Text.Json.dll
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Threading.Channels.dll
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.ValueTuple.dll
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\Npgsql.xml
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Buffers.xml
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Collections.Immutable.xml
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Memory.xml
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Numerics.Vectors.xml
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Text.Encodings.Web.xml
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Text.Json.xml
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Threading.Channels.xml
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\bin\Debug\System.ValueTuple.xml
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.Reportages.resources
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.MainBlock.resources
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.Correspondents.resources
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.Events.resources
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.HelloPage.resources
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.LoginPage.resources
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.RegistrationPage.resources
+C:\Навчання\Курсач 4.2\Program\CourseWork\CourseWork\obj\Debug\CourseWork.ReportageByInfo.resources
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\Npgsql.dll
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Buffers.dll
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Collections.Immutable.dll
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Memory.dll
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Numerics.Vectors.dll
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Text.Encodings.Web.dll
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Text.Json.dll
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Threading.Channels.dll
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.ValueTuple.dll
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\Npgsql.xml
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Buffers.xml
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Collections.Immutable.xml
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Memory.xml
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Numerics.Vectors.xml
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Text.Encodings.Web.xml
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Text.Json.xml
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Threading.Channels.xml
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\bin\Debug\System.ValueTuple.xml
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.HelloPage.resources
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.LoginPage.resources
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.MainBlock.resources
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.RegistrationPage.resources
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.Customer.resources
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.Extradition.resources
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.CustomerReturn.resources
+C:\Навчання\Курсач Генадий\Program\CourseWork\CourseWork\obj\Debug\CourseWork.Book.resources
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\Npgsql.dll
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Buffers.dll
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Memory.dll
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Text.Json.dll
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Threading.Channels.dll
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.ValueTuple.dll
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\Npgsql.xml
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Buffers.xml
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Memory.xml
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Text.Json.xml
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Threading.Channels.xml
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\bin\Debug\System.ValueTuple.xml
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.Customer.resources
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.Extradition.resources
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.HelloPage.resources
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.LoginPage.resources
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.MainBlock.resources
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.RegistrationPage.resources
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.CustomerReturn.resources
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.Book.resources
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Windows\Desktop\курсач!\Program\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
